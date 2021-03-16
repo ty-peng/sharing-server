@@ -1,4 +1,4 @@
-package com.typeng.sharingserver;
+package com.typeng.sharing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
